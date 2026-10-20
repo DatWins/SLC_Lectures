@@ -1,4 +1,4 @@
-# Chess Lectures
+# Saint Louis Chess Club Lectures
 
 A one-page [Hugo](https://gohugo.io/) site (theme: [hugo-scroll](https://github.com/zjedi/hugo-scroll)) with 259 chess lecture videos,
 organized into 7 topics plus a "By Lecturer" section:
