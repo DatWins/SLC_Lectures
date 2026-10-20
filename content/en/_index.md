@@ -1,6 +1,6 @@
 ---
 # Big title and subtitle shown on the cover at the top of the page
-header_headline: "Saint Louis Chess Club Lectures"
+header_headline: "Essential Chess Lectures"
 header_subheadline: "A personal index of 259 lectures by topic and lecturer"
 #
 # Cover background picture (lives in assets/images/)

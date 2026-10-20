@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Saint Louis Chess Club Lectures"
+title = "Essential Chess Lectures"
 
 enableEmoji = false
 
@@ -16,8 +16,8 @@ enableEmoji = false
     favicon = "images/favicon.png"
     images = ["images/cover-image.jpg"]
     title_guard = true
-    title = "Saint Louis Chess Club Lectures"
-    description = "A personal index of Saint Louis Chess Club lecture videos by topic and lecturer"
+    title = "Essential Chess Lectures"
+    description = "A personal index of chess lecture videos by topic and lecturer"
     language_menu = false
     show_current_lang = false
     hidedesignbyline = false
